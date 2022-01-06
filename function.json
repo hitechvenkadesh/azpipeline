@@ -2,11 +2,11 @@
  "scriptFile":"__init__.py",
  "bindingds":[
   {
-   "name":"myblob",
+   "name":"hitechstr",
    "type":"blobTrigger",
    "direction":"in",
-   "path":"democont/{name}.txt",
-   "connection":"demostgaccvrkdemo_STORAGE"
+   "path":"testcont/{name}.txt",
+   "connection":"hitechstr"
   }
  ]
 }

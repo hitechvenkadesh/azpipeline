@@ -2,7 +2,7 @@
  "scriptFile":"__init__.py",
  "bindingds":[
   {
-   "name":"hitechstr",
+   "name":"myblob",
    "type":"blobTrigger",
    "direction":"in",
    "path":"testcont/{name}.txt",
